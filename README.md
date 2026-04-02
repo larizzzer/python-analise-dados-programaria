@@ -25,7 +25,7 @@ Durante a formação, são abordados:
 ```
 📦 primeiros-passos-python
  ┣ 📁 Modulo03/
-    ┗ 📄 Conehcendo_A_Linguagem.py
+    ┗ 📄 Conhecendo_A_Linguagem.py
  ┣ 📁 Modulo04/
  ┣ 📁 Modulo05/
  ┣ 📁 Modulo06/
